@@ -3,7 +3,7 @@ A Comparative Analysis of Combined Open Source Versus Commercial Vulnerability S
 
 
 List of vulnerability scanners used in the project, along with their respective versions:
-
+<pre>
    Name:                   Version:                   GitHub link:
    
 1. DrHeader                2.0.0                      https://github.com/Santandersecurityresearch/DrHeader
@@ -19,16 +19,16 @@ List of vulnerability scanners used in the project, along with their respective 
 11. Testssl                3.2rc3                     https://github.com/drwetter/testssl.sh 
 12. Wapiti                 3.1.8                      https://github.com/wapiti-scanner/wapiti
 13. Whispers               1.5.3                      https://github.com/Skyscanner/whispers
-
+</pre>
 
 
 List of insecure web applications used in the project, along with their respective versions:
-
+<pre>
    Name:                   Version:                   GitHub link:
    
 1. bWAPP                      -                       https://github.com/lmoroz/bWAPP
 2. Juice Shop              17.1.1                     https://github.com/juice-shop/juice-shop
 3. Mutillidae II           1.0.75                     https://github.com/webpwnized/mutillidae-docker
 4. AltoroJ                 Altoroj-3.4                https://github.com/jrocia/AltoroMutual-Dockerfile
-
+</pre>
 
