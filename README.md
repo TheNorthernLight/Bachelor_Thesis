@@ -1,6 +1,8 @@
 # Bachelor_Thesis
-A Comparative Analysis of Combined Open Source Versus Commercial Vulnerability Scanning Tools in Detection Effectiveness for Web Applications Based on Open Worldwide Application Se-curity Project (OWASP) Top 10
+A Comparative Analysis of Combined Open Source Versus Commercial Vulnerability Scanning Tools in Detection Effectiveness for Web Applications Based on Open Worldwide Application Security Project (OWASP) Top 10
 
+The full research can be accessed using this URL: https://urn.fi/URN:NBN:fi:amk-202501292070   
+ 
 
 List of vulnerability scanners used in the project, along with their respective versions:
 <pre>
